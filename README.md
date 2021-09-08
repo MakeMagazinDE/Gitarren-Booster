@@ -42,9 +42,9 @@ Alle Widerstände 1/4W Metallfilm
 
 ### Messwerte
 
-Ermittelt mit Rohde&Schwarz Audio Analyzer UPL. Max. Ausgangsspannung Vpp Spitze-Spitze, Verzerrungen in Prozent, Rauschabstand S/N A-bewertet, Stromaufnahme Ibat bei Vollaussteuerung
+Ermittelt mit Rohde&Schwarz Audio Analyzer UPL. Max. Ausgangsspannung *Vpp* Spitze-Spitze, Verzerrungen *k ges* in Prozent, Rauschabstand *S/N* A-bewertet, Stromaufnahme *I bat* bei Vollaussteuerung
 
-OpAmp | Vpp | Dist. | S/N | Ibat
+OpAmp | Vpp | k ges. | S/N | I bat
 -----|-----|-----|-----|-----
 TL072 | 5,5 | 0,004% | 85,5dB | 3,3mA
 LF412 | 5,6 | 0,003% | 85dB | 3,9mA
