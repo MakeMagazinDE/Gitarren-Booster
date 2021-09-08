@@ -19,7 +19,8 @@ Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstär
 * booster_03 - PCB.pdf - Aktualisierter Bestückungsplan
 
 ### Stückliste
- U1 - TL072, OPA2134, TS912, LF412 oder ähnlich
+```
+U1 - TL072, OPA2134, TS912, LF412 oder ähnlich
  D1 - 1N4004 oder 1N4007
  C1, C4 - 100n     
  C2, C3-100µ 16V         
@@ -36,5 +37,5 @@ Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstär
  R10 - 220R      
  R11 - 2M2      
  R12, R13 - 10k       
- 
+``` 
 
