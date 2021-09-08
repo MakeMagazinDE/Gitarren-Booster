@@ -42,7 +42,13 @@ Alle Widerstände 1/4W Metallfilm
 
 ### Messwerte
 
+Ermittelt mit Rohde&Schwarz Audio Analyzer UPL. Max. Ausgangsspannung Vpp Spitze-Spitze, Verzerrungen in Prozent, Rauschabstand S/N A-bewertet, Stromaufnahme Ibat bei Vollaussteuerung
+
 OpAmp | Vpp | Dist. | S/N | Ibat
 -----|-----|-----|-----|-----
-TL072 | 5,5Vss | 0,004% | 85,5dB | 3,3mA
-TL072 | 5,5Vss | 0,004% | 85,5dB | 3,3mA
+TL072 | 5,5 | 0,004% | 85,5dB | 3,3mA
+LF412 | 5,6 | 0,003% | 85dB | 3,9mA
+OPA2134 | 6,4 | 0,004% | 86,5dB | 8,2mA
+OPA2604 | 2,7 | 0,008% | 86dB | 9,5mA
+
+Den besten Kompromiss aus Messdaten und Stromaufnahme bieten die preiswerten Typen TL072 und LF412. Der OPA2134 liefert weniger Rauschen, ist aber deutlich teurer und nimmt relativ viel Strom auf. Der OPA2604 verbietet sich wegen der zu niedrigen möglichen Ausgangsspannung. Bipolare Typen (LM833, NE5532 usw.) sind wegen ihres hohen Eingangsstroms und der daraus resultierenden hohen Offset-Spannung nicht geeignet.
