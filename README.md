@@ -39,3 +39,9 @@ R11 - 2M2
 R12, R13 - 10k       
 ``` 
 Alle Widerstände 1/4W Metallfilm
+
+### Messwerte
+
+OpAmp | Vpp | Dist. | S/N | Ibat
+TL072 | 5,5Vss | 0,004% | 85,5dB | 3,3mA
+TL072 | 5,5Vss | 0,004% | 85,5dB | 3,3mA
