@@ -25,8 +25,8 @@ D1 - 1N4004 oder 1N4007
 C1, C4 - 100n     
 C2, C3-100µ 16V         
 C5 - 220p       
-C6 - 22n       
-C7 - 470n       
+C6 - 22n 63V (Folie)      
+C7 - 470n 63V (Folie)      
 C8 - 47p       
 R1 - 100R       
 R2, R3 - 47k       
@@ -38,4 +38,4 @@ R10 - 220R
 R11 - 2M2      
 R12, R13 - 10k       
 ``` 
-
+Alle Widerstände 1/4W Metallfilm
