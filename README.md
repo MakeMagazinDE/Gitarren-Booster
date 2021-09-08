@@ -14,4 +14,6 @@ Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstär
 
 ### Dateien:
 
-* eagle pcb (Verzeichnis) - Eagle-Dateien für Platinenversion
+* booster_03.zip - Gerber-Dateien für Platinenfertigung
+* booster_03 - Schematic.pdf - Aktualisierter Schaltplan
+* 
