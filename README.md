@@ -20,7 +20,7 @@ Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstär
 
 ### Stückliste
 ```
-U1 - TL072, OPA2134, TS912, LF412 oder ähnlich
+U1 - TL072, OPA2134, TS912, LF412 oder ähnlich, DIL-Gehäuse
 D1 - 1N4004 oder 1N4007
 C1, C4 - 100n     
 C2, C3-100µ 16V         
@@ -42,7 +42,7 @@ Alle Widerstände 1/4W Metallfilm
 
 ### Messwerte
 
-Ermittelt mit Rohde&Schwarz Audio Analyzer UPL. Max. Ausgangsspannung *Vpp* Spitze-Spitze, Verzerrungen *k ges* in Prozent, Rauschabstand *S/N* A-bewertet, Stromaufnahme *I bat* bei Vollaussteuerung
+Ermittelt mit **Rohde&Schwarz Audio Analyzer UPL**. Max. Ausgangsspannung **Vpp** Spitze-Spitze, Verzerrungen **k ges** in Prozent, Rauschabstand **S/N** A-bewertet, Stromaufnahme **I bat** bei Vollaussteuerung
 
 OpAmp | Vpp | k ges. | S/N | I bat
 -----|-----|-----|-----|-----
