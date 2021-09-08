@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-![Picture](https://github.com/MakeMagazinDE/Wallbox-Steuerung/blob/master/aufm_gh.JPG) 
+![Picture](https://github.com/MakeMagazinDE/Gitarren-Booster/blob/main/aufm_gh.JPG) 
 
 # Gitarren-Booster
 
