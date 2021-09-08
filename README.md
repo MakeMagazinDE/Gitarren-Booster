@@ -12,7 +12,7 @@ Maker Media GmbH
 
 Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstärker Dampf machen kann, dass die Röhren röhren! Aber ein Booster vermag auch einfach nur unterschiedliche Gitarren- oder Effektgerätepegel auszugleichen. Unser Bauvorschlag kann über ein einziges Poti als Bedienelement sowohl verstärken als auch abschwächen.
 
-### Dateien:
+### Dateien
 
 * booster_03.zip - Gerber-Dateien für Platinenfertigung
 * booster_03 - Schematic.pdf - Aktualisierter Schaltplan
