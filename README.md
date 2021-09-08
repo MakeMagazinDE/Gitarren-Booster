@@ -21,26 +21,20 @@ Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstär
 ### Stückliste
  U1 - TL072, OPA2134, TS912, LF412 oder ähnlich
  D1 - 1N4004 oder 1N4007
- C1        C                   100n                C02       
- C2        CP1                 100µ 16V            DSCV      
- C3        CP1                 100µ 16V            DSCV      
- C4        C                   100n                C02       
- C5        C                   220p                C02       
- C6        C                   22n                 C02       
- C7        C                   470n                C02       
- C8        C                   47p                 C02       
- R1        R                   100R                DSC       
- R2        R                   47k                 DSC       
- R3        R                   47k                 DSC       
- R4        R                   1M                  DSC       
- R5        R                   10k                 DSC       
- R6        R                   100k                DSC       
- R7        R                   100k                DSC       
- R8        R_POT               100k                POT_ALPHA_13
- R9        R                   100k                DSC       
- R10       R                   220R                DSC       
- R11       R                   2M2                 DSC       
- R12       R                   10k                 DSC       
- R13       R                   10k                 DSC       
+ C1, C4 - 100n     
+ C2, C3-100µ 16V         
+ C5 - 220p       
+ C6 - 22n       
+ C7 - 470n       
+ C8 - 47p       
+ R1 - 100R       
+ R2, R3 - 47k       
+ R4- -1M       
+ R5 - 10k       
+ R6, R7, R9 - 100k      
+ R8 - 100k Poti lin.
+ R10 - 220R      
+ R11 - 2M2      
+ R12, R13 - 10k       
  
 
