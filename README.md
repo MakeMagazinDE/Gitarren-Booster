@@ -20,7 +20,7 @@ Der Gitarrist mag Booster. Das sind Vorverstärker, mit denen er seinem Verstär
 
 ### Stückliste
 ```
-U1 - TL072, OPA2134, TS912, LF412 oder ähnlich, DIL-Gehäuse
+U1 - TL072, OPA2134, LF412 oder ähnlich, DIL-Gehäuse
 D1 - 1N4004 oder 1N4007
 C1, C4 - 100n     
 C2, C3-100µ 16V         
