@@ -50,6 +50,6 @@ TL072 | 5,5 | 0,004% | 85,5dB | 3,3mA
 LF412 | 5,6 | 0,003% | 85dB | 3,9mA
 OPA2134 | 6,4 | 0,004% | 86,5dB | 8,2mA
 OPA2604 | 2,7 | 0,008% | 86dB | 9,5mA
-LM833 | 4,5 | 0,0025% |88dB |6,5mA
+LM833 (\*) | 4,5 | 0,0025% |88dB |6,5mA
 
-Den besten Kompromiss aus Messdaten und Stromaufnahme bieten die preiswerten Typen TL072 und LF412. Der OPA2134 liefert weniger Rauschen, ist aber deutlich teurer und nimmt relativ viel Strom auf. Der OPA2604 verbietet sich wegen der zu niedrigen möglichen Ausgangsspannung. Bipolare Typen (LM833, NE5532 usw.) sind wegen ihres hohen Eingangsstroms und der daraus resultierenden hohen Offset-Spannung nicht oder nur bedingt geeignet; bei maximaler Verstärkung kann die Ausgangs-Offsetspannung der ersten Stufe die Inverterstufe bereits übersteuern.
+Den besten Kompromiss aus Messdaten und Stromaufnahme bieten die preiswerten Typen TL072 und LF412. Der OPA2134 liefert weniger Rauschen, ist aber deutlich teurer und nimmt relativ viel Strom auf. Der OPA2604 verbietet sich wegen der zu niedrigen möglichen Ausgangsspannung. (\*) Bipolare Typen (LM833, NE5532 usw.) sind wegen ihres hohen Eingangsstroms und der daraus resultierenden hohen Offset-Spannung nicht oder nur bedingt geeignet; bei maximaler Verstärkung kann die Ausgangs-Offsetspannung der ersten Stufe die Inverterstufe bereits übersteuern.
