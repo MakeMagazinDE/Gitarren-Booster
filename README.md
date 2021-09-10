@@ -38,7 +38,7 @@ R10 - 220R
 R11 - 2M2      
 R12, R13 - 10k       
 ``` 
-Alle Widerstände 1/4W Metallfilm
+Alle Widerstände 1/4W Metallfilm. Gegenüber dem abgedruckten Schaltplan ist C8 hinzugekommen, der bei schnellen OpAmps zum Vermeiden von Schwingneigung nötig ist.
 
 ### Messwerte
 
